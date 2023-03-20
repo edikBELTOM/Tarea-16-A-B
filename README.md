@@ -1,2 +1,7 @@
-# Tarea-16
-Git, Markdown, Github, Github Pages, PicoCSS
+
+# Lorem título 1
+ ![image1](/img/)
+
+# Lorem título 2
+ ![image1](/img/)
+# Lorem título 3
