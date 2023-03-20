@@ -1,30 +1,9 @@
 
-# Lorem título 1
+# Título 1
  ![image1](/img/1025-200x200.jpg)  <br>
-Lorem Picsum : [Lorem Picsum](https://picsum.photos/)
-
-|   | 1 | 2 | 3 | 4 |
-|---|---|---|---|---|
-| 1 | - | - | * | - |
-| 2 | - | * | - | - |
-| 3 | - | - | * | - |
-
-# Lorem título 2
- ![image1](/img/313-200x200.jpg)
  
- ```
-print("Hello, world!")
-for i in range(10):
-    print(i)
-```
+ * Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-```
-print("Hello, world!")
-for i in range(10):
-    print(i)
-```
-
-# Lorem título 3
-IES Aguadulce : [iesaguadulce](http://www.iesaguadulce.es/centro/)  <br>
-Github : [edikBELTOM](https://github.com/edikBELTOM)  <br>
-Google : [Google](https://www.google.es/)
+- IES Aguadulce : [iesaguadulce](http://www.iesaguadulce.es/centro/)  <br>
+- Github : [edikBELTOM](https://github.com/edikBELTOM)  <br>
+- Google : [Google](https://www.google.es/)
