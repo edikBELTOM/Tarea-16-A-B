@@ -7,4 +7,4 @@
     - Enlaces :
 1. IES Aguadulce : [iesaguadulce](http://www.iesaguadulce.es/centro/)  <br>
 2. Github : [edikBELTOM](https://github.com/edikBELTOM)  <br>
-3. README : [ReadME]([https://www.google.es/](https://github.com/edikBELTOM/Tarea-16-A-B/blob/main/README.md))
+3. README : [ReadME](https://github.com/edikBELTOM/Tarea-16-A-B/blob/main/README.md)
